@@ -14,7 +14,7 @@ A platform for buying  Network DATA at cheaper rates
 
 ### Screenshot
 
-![](images/datatrades.png)
+![](images/datatrade.png)
 
 ### Links
 
